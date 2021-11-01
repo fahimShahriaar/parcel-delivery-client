@@ -1,0 +1,21 @@
+.custom-btn{
+    background-color: #e63946;
+    color: white;
+}
+.custom-btn:hover{
+    background-color: #cc1625;
+    color: white;
+}
+.service-card:hover{
+    transform: scale(1.05);
+}
+.service-card { 
+    transition: transform .5s ease-in-out; 
+}
+.service-detail{
+    height: 150px;
+}
+.service-banner{
+    height: 245px;
+    width: 100%;
+}

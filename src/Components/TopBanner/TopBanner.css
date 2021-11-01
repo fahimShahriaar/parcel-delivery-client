@@ -1,0 +1,13 @@
+.top-banner{
+    background-image: url('../../images/top-banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.custom-text{
+    color: #e63946;
+    font-weight: bolder;
+}
+.header-txt{
+    font-size: 3rem
+}

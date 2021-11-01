@@ -1,0 +1,44 @@
+[
+    {
+        "key": 1,
+        "title": "Gift",
+        "description": "Send gifts to your beloved one. We will deliver your gift at his/her doorstep.",
+        "img": "https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/light%20blue%20gift%20box%20on%20light%20blue%20background-7944-da9c5f12366780c66aedffff40b250d0@1x.jpg",
+        "price": 120
+    },
+    {
+        "key": 2,
+        "title": "Fastest Food Delivey",
+        "description": "Are you Hungry? Chill! Tell us about your favourite restaurant and your desired food. We'll bring us to you within the shortest possible time.",
+        "img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80",
+        "price": 50
+    },
+    {
+        "key": 3,
+        "title": "Furniture and Accessories Delivery",
+        "description": "Got transfered? No tension! We are here for move your furniture from one to another place with 100% safety.",
+        "img": "https://images.pexels.com/photos/6407541/pexels-photo-6407541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "price": 2000
+    },
+    {
+        "key": 4,
+        "title": "Urgent Delivery",
+        "description": "Need to deliover your product with urgency? Give us 24hours.",
+        "img": "https://www.thepartyshop.com.bd/wp-content/uploads/2018/09/Emergency_Delivery-1-600x492.jpg",
+        "price": 150
+    },
+    {
+        "key": 5,
+        "title": "Grocery",
+        "description": "In this Covid-19 pandemic don't get out. Stay home, stay safe. Order us - we'll be at your doorstep.",
+        "img": "https://www.eatthis.com/wp-content/uploads/sites/4//media/images/ext/567640979/shopping-cart-grocery-store.jpg?quality=82&strip=all&w=1024",
+        "price": 60
+    },
+    {
+        "key": 6,
+        "title": "Medicine",
+        "description": "In this Covid-19 pandemic don't get out. Stay home, stay safe. Order us - we'll be at your doorstep.",
+        "img": "https://www.collinsdictionary.com/images/full/pharmacy_390599908_1000.jpg",
+        "price": 50
+    }
+]
